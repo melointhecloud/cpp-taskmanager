@@ -36,11 +36,9 @@ O projeto é escrito em C++, então você precisará de um compilador C++ instal
 🔧 Usando o g++ (Linux, macOS ou MinGW no Windows)
 Navegue até a pasta do projeto:
 bash
-Copy Code
 cd cpp-taskmanager
 Compile o código com o comando:
 bash
-Copy Code
 g++ -o GerenciadorTarefas main.cpp Tarefa.cpp
 Isso criará um executável chamado GerenciadorTarefas (ou GerenciadorTarefas.exe no Windows).
 🖥️ Usando o Visual Studio (Windows)
@@ -55,17 +53,13 @@ Depois de compilar, você pode executar o programa:
 
 💻 No Linux/macOS
 bash
-Copy Code
 ./GerenciadorTarefas
 🖥️ No Windows
 bash
-Copy Code
 GerenciadorTarefas.exe
 4. Use o menu do programa
 O programa exibirá um menu com as opções disponíveis. Por exemplo:
 
-plaintext
-Copy 
 === Gerenciador de Tarefas ===
 1. Adicionar tarefa
 2. Listar tarefas
@@ -95,8 +89,6 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 🎯 Exemplo de Uso
 Aqui está um exemplo de como o programa funciona:
 
-plaintext
-Copy 
 === Gerenciador de Tarefas ===
 1. Adicionar tarefa
 2. Listar tarefas
