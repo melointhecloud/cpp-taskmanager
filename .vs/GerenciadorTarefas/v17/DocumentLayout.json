@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315BEAB8-BF2E-4870-8BE1-17B33E2B03A4}|GerenciadorTarefas.vcxproj|C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\Tarefa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{315BEAB8-BF2E-4870-8BE1-17B33E2B03A4}|GerenciadorTarefas.vcxproj|solutionrelative:Tarefa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315BEAB8-BF2E-4870-8BE1-17B33E2B03A4}|GerenciadorTarefas.vcxproj|C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{315BEAB8-BF2E-4870-8BE1-17B33E2B03A4}|GerenciadorTarefas.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315BEAB8-BF2E-4870-8BE1-17B33E2B03A4}|GerenciadorTarefas.vcxproj|C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\Tarefa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{315BEAB8-BF2E-4870-8BE1-17B33E2B03A4}|GerenciadorTarefas.vcxproj|solutionrelative:Tarefa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T01:31:57.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarefa.cpp",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\Tarefa.cpp",
+              "RelativeDocumentMoniker": "Tarefa.cpp",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\Tarefa.cpp",
+              "RelativeToolTip": "Tarefa.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T01:17:20.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarefa.h",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\Tarefa.h",
+              "RelativeDocumentMoniker": "Tarefa.h",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Curso C\u002B\u002B\\GerenciadorTarefas\\Tarefa.h",
+              "RelativeToolTip": "Tarefa.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-27T01:16:53.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

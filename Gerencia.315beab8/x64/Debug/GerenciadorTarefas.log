@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\lucas\Desktop\Curso C++\GerenciadorTarefas\main.cpp(3,10): error C1083: Não é possível abrir arquivo incluir: 'rang.hpp': No such file or directory
+  Tarefa.cpp
+C:\Users\lucas\Desktop\Curso C++\GerenciadorTarefas\Tarefa.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: '../include/nlohmann/json.hpp': No such file or directory
+  Gerando Código...
